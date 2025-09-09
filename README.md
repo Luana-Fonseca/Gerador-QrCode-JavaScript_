@@ -43,3 +43,7 @@ O código é facilmente personalizável. Você pode alterar:
 - Dimensões do QR Code no JavaScript
 
 - Textos e labels na interface
+
+### Acesse o site aqui:
+
+https://luana-fonseca.github.io/Gerador-QrCode-JavaScript_/
