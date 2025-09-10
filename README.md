@@ -44,6 +44,11 @@ O código é facilmente personalizável. Você pode alterar:
 
 - Textos e labels na interface
 
+### 📷 Prévia
+
+<img width="1907" height="923" alt="image" src="https://github.com/user-attachments/assets/2fc6277d-c477-4d5a-94df-79b1f473e6b4" />
+
+
 ### Acesse o site aqui:
 
 https://luana-fonseca.github.io/Gerador-QrCode-JavaScript_/
